@@ -7,4 +7,8 @@
     <string name="guardar">Save</string>
     <string name="limpiar">Clear</string>
     <string name="nombre">FirstName</string>
+    <string name="crear">Create Person</string>
+    <string name="numero">Number</string>
+    <string name="listarPersonas">List Persons</string>
+    <string name="exito1">Person Saved Succesfully</string>
 </resources>
