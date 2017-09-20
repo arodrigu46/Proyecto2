@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto2</string>
+    <string name="agregar">Add</string>
+    <string name="apellido">LastName</string>
+    <string name="cedula">DNI</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clear</string>
+    <string name="nombre">FirstName</string>
+</resources>
